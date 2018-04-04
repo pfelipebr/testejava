@@ -1,0 +1,4 @@
+/root/app/src/main/java/application/rest/RootEndpoint.java
+/root/app/src/main/java/application/rest/HealthEndpoint.java
+/root/app/src/main/java/application/rest/JaxrsApplication.java
+/root/app/src/main/java/application/rest/v1/Example.java
